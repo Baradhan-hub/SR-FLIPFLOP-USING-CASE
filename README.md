@@ -35,7 +35,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 ```
-Developed by:SURYA D RegisterNumber:24901185
+Developed by:Baradhan.l RegisterNumber:24005473
 ```
 
 SR Flipflop
